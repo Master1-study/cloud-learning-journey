@@ -111,12 +111,11 @@ User programs,, libraries, and documentation
 
 Variable data logs, mail, and databases
 
-
-========================
-#🐧 Linux Command Cheat Sheet
-========================
-
 ```
+========================
+🐧 Linux Command Cheat Sheet
+========================
+
 1️⃣ File & Directory Navigation
 -------------------------------
 
