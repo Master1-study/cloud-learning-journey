@@ -116,9 +116,10 @@ Variable data logs, mail, and databases
 #🐧 Linux Command Cheat Sheet
 ========================
 
-##1️⃣ File & Directory Navigation
+```
+1️⃣ File & Directory Navigation
 -------------------------------
-```sh
+
 pwd                 # Print current working directory
 ls [options] [path] # List files in directory
 cd [directory]      # Change directory
@@ -129,7 +130,6 @@ $ pwd
 $ ls -la ~/projects
 $ cd ~/linux-notes
 $ tree ~
-```
 ---
 
 2️⃣ File & Directory Management
@@ -224,3 +224,4 @@ $ man ls
 ---
 
 💡 Tips:
+```
